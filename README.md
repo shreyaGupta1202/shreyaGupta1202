@@ -1,4 +1,7 @@
-## Hi there 👋
+# Shreya Gupta
+### a.k.a shreyaGupta1202
+
+*Building @Envaar*
 
 <!--
 **shreyaGupta1202/shreyaGupta1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
